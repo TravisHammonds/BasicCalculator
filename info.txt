@@ -1,0 +1,3 @@
+Notes regarding the process of developing CalculatorApp 
+
+Prompt the user to enter two numbers (int)
